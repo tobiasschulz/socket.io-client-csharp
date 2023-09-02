@@ -5,7 +5,8 @@
     <LangVersion>latest</LangVersion>
     <SignAssembly>true</SignAssembly>
     <AssemblyOriginatorKeyFile>../SocketIOClient/SocketIOClient.snk</AssemblyOriginatorKeyFile>
-    <Version>3.1.0</Version>
+    <PackageId>TS.SocketIO.Serializer.MessagePack</PackageId>
+    <Version>3.1.0.2</Version>
   </PropertyGroup>
 
   <ItemGroup>
